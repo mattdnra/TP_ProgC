@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int num1, num2;
     char op;
     int resultat;
@@ -55,5 +55,6 @@ int main() {
 
     return 0;
 }
+
 
 
