@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     printf("Tailles des types de base en octets :\n\n");
 
     printf("char              : %zu octet(s)\n", sizeof(char));
@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+
